@@ -94,12 +94,14 @@ h6 {
  * LINK STYLE
  *------------------------------------------*/
 a {
-    color              : #fd367e;
+    /* color              : #fd367e; */
+    color              : #0e1555;
     text-decoration    : none;
     -webkit-transition : all 0.3s ease 0s;
     -moz-transition    : all 0.3s ease 0s;
     -o-transition      : all 0.3s ease 0s;
     transition         : all 0.3s ease 0s;
+    font-weight : 400;    
     }
 
 a,
